@@ -1,2 +1,0 @@
-# Here goes the configuration for the collector
-# The collector is responsible for collecting messages from the producers, adding them to the queue, and sending them to kafka
